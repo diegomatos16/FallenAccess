@@ -1,0 +1,29 @@
+# Estado local, diagnósticos e credenciais
+/runtime/
+/logs/
+/downloads/
+/build/
+/dist/
+/deployment.json*
+/*-status.json
+__pycache__/
+*.pyc
+/src/main.lua
+
+# Ferramentas locais; somente fontes e configuração necessárias entram no Git
+/tools/*
+!/tools/LuaRaw/
+!/tools/ue4ss/
+!/tools/custom-configs/
+/tools/ue4ss/*
+!/tools/ue4ss/UE4SS-settings.ini
+!/tools/ue4ss/README.md
+!/tools/ue4ss/LICENSE
+/tools/custom-configs/*
+!/tools/custom-configs/Star Wars Jedi Fallen Order/
+/lib/prism/prism.dll
+
+# Scripts históricos, substituídos pelo instalador atual
+/Install-Admin.ps1
+/Repair-Logging-Admin.ps1
+/Update-Probe-Admin.ps1

@@ -1,0 +1,13 @@
+{
+  "Session": "20261022T192121816Z-ui",
+  "SourceCaptures": [
+    "ui-20261022T193356Z-1.jsonl",
+    "ui-20261022T193356Z-2.jsonl"
+  ],
+  "Fixtures": [
+    "options-overlay.json",
+    "gameplay-overlay.json"
+  ],
+  "Selection": "All rows with active=true, unchanged",
+  "Note": "Real manual captures; both foreground GameMenu and background Shell reported active."
+}

@@ -1,0 +1,39 @@
+[
+  {
+    "acceptGroup": 0,
+    "active": true,
+    "ancestorsVisible": true,
+    "focusGroup": 0,
+    "focused": true,
+    "identity": "UI_TitleScreenButton_C /Engine/Transient.GameEngine_2147482589:r4GameInstance_C_2147482574.UI_StartScreen_C_2147482163.WidgetTree_0.OptionsButton",
+    "kind": "rs",
+    "label": "OPÇÕES",
+    "labelPath": "TextBlock /Engine/Transient.GameEngine_2147482589:r4GameInstance_C_2147482574.UI_StartScreen_C_2147482163.WidgetTree_0.OptionsButton.WidgetTree_0.LabelTxt",
+    "localVisible": true,
+    "run": "20261022T193356Z",
+    "session": "20261022T192121816Z-ui",
+    "window": "UI_ShellContainer_C /Engine/Transient.GameEngine_2147482589:r4GameInstance_C_2147482574.UI_ShellContainer_C_2147482166",
+    "windowInViewport": true,
+    "windowInputEnabled": true,
+    "windowVisible": true
+  },
+  {
+    "acceptGroup": 4,
+    "active": true,
+    "ancestorsVisible": true,
+    "focusGroup": 4,
+    "focused": true,
+    "identity": "UI_PauseMenuBtn_Selector_C /Engine/Transient.GameEngine_2147482589:r4GameInstance_C_2147482574.UI_LoadableScreenWidget_Settings_Gameplay_C_2147481789.WidgetTree_0.selHUDTextScale",
+    "kind": "rs",
+    "label": "Escala do texto dos indicadores",
+    "localVisible": true,
+    "run": "20261022T193356Z",
+    "session": "20261022T192121816Z-ui",
+    "value": "1",
+    "valueSource": "visible widget text",
+    "window": "UI_GameMenu_C /Engine/Transient.GameEngine_2147482589:r4GameInstance_C_2147482574.UI_GameMenu_C_2147482109",
+    "windowInViewport": true,
+    "windowInputEnabled": true,
+    "windowVisible": true
+  }
+]

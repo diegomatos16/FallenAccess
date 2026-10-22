@@ -1,0 +1,37 @@
+[
+  {
+    "acceptGroup": 0,
+    "active": true,
+    "ancestorsVisible": true,
+    "focusGroup": 0,
+    "focused": true,
+    "identity": "UI_TitleScreenButton_C /Engine/Transient.GameEngine_2147482589:r4GameInstance_C_2147482574.UI_StartScreen_C_2147482163.WidgetTree_0.OptionsButton",
+    "kind": "rs",
+    "label": "OPÇÕES",
+    "labelPath": "TextBlock /Engine/Transient.GameEngine_2147482589:r4GameInstance_C_2147482574.UI_StartScreen_C_2147482163.WidgetTree_0.OptionsButton.WidgetTree_0.LabelTxt",
+    "localVisible": true,
+    "run": "20261022T193356Z",
+    "session": "20261022T192121816Z-ui",
+    "window": "UI_ShellContainer_C /Engine/Transient.GameEngine_2147482589:r4GameInstance_C_2147482574.UI_ShellContainer_C_2147482166",
+    "windowInViewport": true,
+    "windowInputEnabled": true,
+    "windowVisible": true
+  },
+  {
+    "acceptGroup": 1,
+    "active": true,
+    "ancestorsVisible": true,
+    "focusGroup": 1,
+    "focused": true,
+    "identity": "UI_Button_LeftNav_C /Engine/Transient.GameEngine_2147482589:r4GameInstance_C_2147482574.UI_Button_LeftNav_C_2147482055",
+    "kind": "rs",
+    "label": "JOGABILIDADE",
+    "localVisible": true,
+    "run": "20261022T193356Z",
+    "session": "20261022T192121816Z-ui",
+    "window": "UI_GameMenu_C /Engine/Transient.GameEngine_2147482589:r4GameInstance_C_2147482574.UI_GameMenu_C_2147482109",
+    "windowInViewport": true,
+    "windowInputEnabled": true,
+    "windowVisible": true
+  }
+]
